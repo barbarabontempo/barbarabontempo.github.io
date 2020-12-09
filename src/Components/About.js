@@ -31,14 +31,12 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>
-              Hello, my name is Barbara. I'm a full stack engineer with
-              experience in Ruby, Ruby on Rails, Javascript, PostGreSQL, and
-              React.
+              Hello, my name is Barbara. I'm a full stack web developer with
+              experience in Ruby, Ruby on Rails, Javascript, and
+              React. I enjoy creating things that live on the internet and my goal is to always build products that provide performant, accessible, and 'easy to use', user experiences.
             </p>
             <p>
-              I have a passion for driving diversity and inclusion in the tech
-              scene and have a strong interest in curating a more eco friendly
-              environment both inside and outside the office.
+              Before coding I was on the track to med school and before that law school. After realizing I wasn't passionate about those fields, I found myself learning how to code. Programming allowed me to use all my past experiences in different fields and bring my ideas to life. 
             </p>
 
             <p>
