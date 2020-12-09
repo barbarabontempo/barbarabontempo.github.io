@@ -6,6 +6,7 @@
 
 .header-skills{
     text-align: center;
+    margin: 25px;
 }
 
 .languages, .frontend, .backend, .database{
@@ -14,3 +15,16 @@
    align-items: center;
 }
 
+.titlo{
+    margin-bottom: 25px !important;
+}
+
+@media screen and (min-width: 800px) {
+    .all-skills {
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-evenly;
+    }
+    
+  }

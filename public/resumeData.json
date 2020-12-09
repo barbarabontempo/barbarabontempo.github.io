@@ -2,7 +2,7 @@
   "main": {
     "name":"Barbara Bontempo",
     "occupation":"full stack web developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"specializing in building exceptional websites, applications, and everything in between.",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -10,7 +10,7 @@
     "phone": "555-555-5555",
     "address":{
       "street":"(Your Street)",
-      "city":"Queens",
+      "city":"NYC",
       "state":"New York",
       "zip": "11103"
     },
@@ -18,40 +18,21 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/barbarabontempo",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/barbara-bontempo-a17011131/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"medium",
+        "url":"https://medium.com/@barbarabontempo94",
+        "className":"fa fa-medium"
       }
+      
     ]
   },
   "resume":{
@@ -118,34 +99,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"yogaON",
+        "category":"A zen space for users to learn yoga, track habits, and meditate.",
+        "image":"yogaon.png",
+        "url":"https://github.com/barbarabontempo/yogaON-frontend"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"ArteLuz",
+        "category":"An art haven for artists to share their work and get inspired.",
+        "image":"arteluz.png",
+        "url":"https://github.com/barbarabontempo/ArteLuz-frontend"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"CodeChisme",
+        "category":"A chatroom for developers around the world to connect.",
+        "image":"codechisme.png",
+        "url":"https://github.com/barbarabontempo/CodeChisme-frontend"
       }
     ]
   },
