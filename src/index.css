@@ -51,6 +51,9 @@
 
 
   #skills{
-      padding-top: 96px;
-      padding-bottom: 66px
-  }
+    padding-left: 35px;
+    padding-top: 96px;
+    padding-bottom: 66px;
+    padding-right: 35px;
+}
+  
