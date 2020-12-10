@@ -39,7 +39,7 @@ class About extends Component {
               React. I enjoy creating things that live on the internet and my goal is to always build products that provide performant, accessible, and 'easy to use', user experiences.
             </p>
             <p>
-              Before coding I was on the track to med school and before that law school. After realizing I wasn't passionate about those fields, I found myself learning how to code. Programming allowed me to use all my past experiences in different fields and bring my ideas to life. 
+              Before coding I was on the track to med school and before that law school. After realizing I wasn't passionate about those fields, I found myself learning how to code. Programming allowed me to use all my knowledge from my past experiences in different fields and bring my ideas to life. 
             </p>
 
             <p>
