@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import resume from '../resume/resume.pdf'
 
 
+
 class About extends Component {
   render() {
     if (this.props.data) {
@@ -16,6 +17,8 @@ class About extends Component {
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
     }
+
+  
 
     return (
       <section id="about">

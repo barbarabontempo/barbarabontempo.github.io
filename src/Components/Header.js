@@ -1,6 +1,15 @@
 import React, { Component } from 'react';
+import Aos from "aos"
+import "aos/dist/aos.css"
 
 class Header extends Component {
+   componentDidMount(){
+      Aos.init({
+        duration : 2000
+      });
+    }
+
+
   render() {
 
     if(this.props.data){
@@ -13,6 +22,7 @@ class Header extends Component {
       })
     }
 
+   
     return (
       <header id="home">
 
@@ -34,10 +44,12 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a {city} based <span>{occupation}</span> {description}</h3>
+            <h1 
+            data-aos="fade-right"
+            className="responsive-headline">I'm {name}.</h1>
+            <h3 data-aos="fade-left">I'm a {city} based <span>{occupation}</span> {description}</h3>
             <hr />
-            <ul className="social">
+            <ul data-aos="fade-up" className="social">
                {networks}
             </ul>
          </div>
