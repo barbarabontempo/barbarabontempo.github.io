@@ -51,7 +51,7 @@ export default class Skills extends Component {
           </div>
 
           <div className="database">
-            <h3 className="titlo">Database</h3>
+            <h3 className="titlo">Databases</h3>
             <SiPostgresql fill="#336791" title="PostgreSQL" size={40}/>
             <p>PostgreSQL</p>
             <SiMysql fill="#4479A1" title="MySQL" size={40}/>
