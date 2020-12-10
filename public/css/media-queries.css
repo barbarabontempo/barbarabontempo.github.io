@@ -123,7 +123,7 @@
 
       position: relative;
       top: 0px;
-      right: 30px;
+      /* right: 30px; */
    }
 
 	#nav-wrap > a:before,
@@ -133,7 +133,9 @@
 		top: 35%;
 		left: 25%;
 		right: 25%;
-		content: '';
+      content: '';
+      background: white;
+      border-radius: 10px;
 	}
    #nav-wrap > a:after { top: 60%; }
 
@@ -152,8 +154,8 @@
       float: right;     
 
       position: relative;
-      top: 12px;
-      right: 0;
+      /* top: 12px; */
+      right: 18px;
    }
 
    /* display menu panels */
