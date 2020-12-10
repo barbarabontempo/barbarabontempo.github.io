@@ -1,3 +1,5 @@
+
+
 .all-skills{
     display: flex !important;
     flex-direction: row !important;
@@ -25,12 +27,14 @@
     #skills {
         text-align: center;
         
+        
     }
     .all-skills{
        
         flex-wrap: wrap;
         justify-content: center;
-        
+        margin: 30px;
+    gap: 65px;
     }
    
   }
@@ -43,4 +47,10 @@
 
   .download-butt{
       text-align: end;
+  }
+
+
+  #skills{
+      padding-top: 96px;
+      padding-bottom: 66px
   }

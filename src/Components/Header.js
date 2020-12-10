@@ -47,7 +47,9 @@ class Header extends Component {
             <h1 
             data-aos="fade-right"
             className="responsive-headline">I'm {name}.</h1>
+            <strong>  
             <h3 data-aos="fade-left">I'm a {city} based <span>{occupation}</span> {description}</h3>
+            </strong>
             <hr />
             <ul data-aos="fade-up" className="social">
                {networks}
