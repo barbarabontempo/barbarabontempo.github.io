@@ -39,7 +39,7 @@ class About extends Component {
            </p>
  
            <p>
-             When I am not coding, you can find me on top of a mountain (or sometimes a volcano) soaking in the nature around me 🏔. I also find inspiration through yoga, painting, and taking photos. I am passionate about people and I hope that my work can contribute to providing for those who do not have equal resource access to technology. Oh and also to saving the world from climate change! 🌍
+             When I am not coding, you can find me on top of a mountain (or sometimes a volcano 🌋) soaking up the nature around me. I also find inspiration through yoga, painting, and taking photos. I am passionate about people and I hope that my work can contribute to providing for those who do not have equal resource access to technology. Oh, and also to protecting our Earth and all its natural beauty! 🌍
            </p>
 
 
