@@ -21,7 +21,7 @@ class Contact extends Component {
 
             <div className="two columns header-col">
 
-               <h1><span>Get In Touch.</span></h1>
+               <h1><span>Talk to me baby!</span></h1>
 
             </div>
 
@@ -93,6 +93,8 @@ class Contact extends Component {
                      <li>
                         <span>
                         This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
+                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsumThis is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
+                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsumThis is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
                         Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
                         <a href="#">http://t.co/CGIrdxIlI3</a>
                         </span>
