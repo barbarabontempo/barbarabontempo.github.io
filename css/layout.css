@@ -970,7 +970,7 @@ call-to-action .button {
 #contact select:focus {
   color: #fff;
   /* background-color: #b05111; */
-  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(82,18,18,1) 64%, rgba(129,86,26,1) 100%);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(82,18,18,1) 50%, rgba(129,86,26,1) 100%);
 }
 #contact button.submit {
   text-transform: uppercase;
