@@ -221,7 +221,7 @@ ul#nav li.current a {
 }
 #about a:hover,
 #about a:focus {
-  color: #11abb0;
+  color: #f06000;
 }
 
 #about h2 {
@@ -899,7 +899,7 @@ call-to-action .button {
 
 #contact a,
 #contact a:visited {
-  color: #11abb0;
+  color: #fac86b;
 }
 #contact a:hover,
 #contact a:focus {
@@ -969,7 +969,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
   color: #fff;
-  background-color: #11abb0;
+  background-color: #b05111;
 }
 #contact button.submit {
   text-transform: uppercase;
@@ -988,7 +988,7 @@ call-to-action .button {
   background: #fff;
 }
 #contact span.required {
-  color: #11abb0;
+  color: #b05111;
   font-size: 13px;
 }
 #message-warning,
@@ -1004,7 +1004,7 @@ call-to-action .button {
   color: #d72828;
 }
 #message-success {
-  color: #11abb0;
+  color: #ff9e0d;
 }
 
 #message-warning i,
