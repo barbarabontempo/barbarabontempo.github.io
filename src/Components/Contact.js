@@ -1,6 +1,37 @@
 import React, { Component } from 'react';
+import axios from 'axios'
 
 class Contact extends Component {
+
+   state = {
+      name: '',
+      email: '',
+      subject:'',
+      message: ''
+    }
+
+
+     handleChange = (e) => {
+      this.setState((prevState) => ({
+        ...prevState,
+        [e.target.name]: e.target.value
+      }))
+    }
+  
+     handleSubmit = async (e) => {
+      e.preventDefault();
+      const {name, email, subject, message} = this.state;
+      console.log(name, email, subject, message)
+  
+      const form = await axios.post('/api/form', {
+        name,
+        email,
+        subject,
+        message
+      })
+    }
+
+  
   render() {
 
     if(this.props.data){
@@ -36,7 +67,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form action="" method="post" id="contactForm" name="contactForm" onSubmit={this.handleSubmit}>
 					<fieldset>
 
                   <div>
@@ -56,7 +87,7 @@ class Contact extends Component {
 
                   <div>
                      <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
+                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage" onChange={this.handleChange}></textarea>
                   </div>
 
                   <div>
