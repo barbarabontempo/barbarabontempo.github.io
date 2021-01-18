@@ -55,6 +55,30 @@ class About extends Component {
                    </span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
+					   </p> */}  {/* <h2>Contact Details</h2>
+                  <p className="address">
+						   <span>{name}</span><br />
+						   <span>{street}<br />
+						         {city} {state}, {zip}
+                   </span><br />
+						   <span>{phone}</span><br />
+                     <span>{email}</span>
+					   </p> */}  {/* <h2>Contact Details</h2>
+                  <p className="address">
+						   <span>{name}</span><br />
+						   <span>{street}<br />
+						         {city} {state}, {zip}
+                   </span><br />
+						   <span>{phone}</span><br />
+                     <span>{email}</span>
+					   </p> */}  {/* <h2>Contact Details</h2>
+                  <p className="address">
+						   <span>{name}</span><br />
+						   <span>{street}<br />
+						         {city} {state}, {zip}
+                   </span><br />
+						   <span>{phone}</span><br />
+                     <span>{email}</span>
 					   </p> */}
               </div>
               <div className="columns download">

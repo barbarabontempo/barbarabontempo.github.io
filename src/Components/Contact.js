@@ -65,7 +65,7 @@ class Contact extends Component {
          </div>
 
          <div className="row">
-            <div className="eight columns">
+            ad <div className="eight columns">
 
                <form action="" method="post" id="contactForm" name="contactForm" onSubmit={this.handleSubmit}>
 					<fieldset>
