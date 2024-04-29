@@ -30,6 +30,7 @@ datadogRum.init({
   defaultPrivacyLevel: "mask-user-input",
 });
 datadogRum.startSessionReplayRecording();
+
 class App extends Component {
   constructor(props) {
     super(props);
