@@ -23,35 +23,49 @@ class About extends Component {
             <img
               className="profile-pic"
               src={profilepic}
-              alt="Tim Baker Profile Pic"
+              alt="Barbara Bontempo Profile Pic"
             />
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
 
             <p>
-              Hey! My name is Barbara. I'm a full-stack web developer with
-              experience in Ruby, Ruby on Rails, Javascript, and React. I love
-              building things that live on the internet and my goal is to always
-              create products that provide performant, accessible, and 'easy to
-              use', user experiences. Before coding, I worked and studied in
-              various fields including medicine, policy, and law. But
-              ultimately, I wanted to be more creative. So I learned to code!
-              Programming soon became this magical tool that allowed me to bring
-              my ideas to life! It has given me the opportunity to create
-              projects that reflect on all my past experiences. I am also
-              constantly learning new things. Currently, I'm practicing my
-              skills with MongoDB, React, Node JS, and Python.
+              Hey! I'm Barbara. I'm an enterprise Technical Account Manager and
+              Solutions Architect based in New York, where I help some of the
+              world's largest companies get real value out of complex data, AI,
+              and observability platforms. My accounts span industries from
+              healthcare to automotive to logistics. Day to day, that means
+              being the technical lead our biggest customers rely on. I
+              architect solutions, untangle thorny distributed-systems problems,
+              guide teams through AI adoption, and make sure the technology
+              actually delivers on what it promised.
             </p>
 
             <p>
-              When I am not coding, you can find me on top of a mountain (or
-              sometimes a volcano 🌋) soaking up the nature around me. I also
-              find inspiration through yoga, painting, and taking photos. I am
-              passionate about people and I hope that my work can contribute to
-              providing for those who do not have equal resource access to
-              technology. Oh, and also to protecting our Earth and all its
-              natural beauty! 🌍
+              I didn't start here. I studied Public Policy at NYU, spent time
+              around fields like medicine and law, and eventually realized I
+              wanted to build the things I cared about rather than just write
+              about them. So I taught myself to code, full-stack, with Ruby on
+              Rails and React, and programming became the tool that let me bring
+              ideas to life. That foundation still shapes how I work. I speak
+              both "engineer" and "human," and I'm as comfortable in a terminal
+              as I am in an executive business review.
+            </p>
+
+            <p>
+              Lately I'm going deeper on data and AI, from Spark and the
+              Lakehouse to generative AI, because I think the next wave of
+              value for enterprises lives in how well they can use their data
+              and the models they build on top of it.
+            </p>
+
+            <p>
+              When I'm not working, you'll find me on top of a mountain
+              (occasionally a volcano 🌋) soaking up the nature around me, or
+              finding inspiration through yoga, painting, and photography. I
+              care deeply about people, especially closing the gap for those
+              without equal access to technology, and about protecting our
+              Earth and all its natural beauty. 🌍
             </p>
 
             <div className="row">
