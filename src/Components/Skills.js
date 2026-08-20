@@ -11,10 +11,12 @@ import {
   SiJavascript,
   SiRuby,
   SiPostgresql,
+  SiPython,
   SiSalesforce,
   SiJira,
   SiConfluence,
   SiPagerduty,
+  SiZendesk,
 } from "react-icons/si";
 
 const observabilityProducts = [
@@ -72,8 +74,10 @@ export default class Skills extends Component {
             <p>JavaScript</p>
             <SiRuby fill="#CC342D" title="Ruby" size={40} />
             <p>Ruby / Rails</p>
+            <SiPython fill="#3776AB" title="Python" size={40} />
+            <p>Python</p>
             <SiPostgresql fill="#336791" title="PostgreSQL" size={40} />
-            <p>PostgreSQL</p>
+            <p>SQL / PostgreSQL</p>
             <SiApachekafka fill="#FFFFFF" title="Kafka" size={40} />
             <p>Kafka</p>
           </div>
@@ -88,6 +92,9 @@ export default class Skills extends Component {
             <p>Confluence</p>
             <SiPagerduty fill="#06AC38" title="PagerDuty" size={40} />
             <p>PagerDuty</p>
+            <SiZendesk fill="#00B388" title="Zendesk" size={40} />
+            <p>Zendesk</p>
+            <p style={{ color: "#ccc", marginTop: "8px" }}>ServiceNow</p>
           </div>
 
         </div>
