@@ -1,18 +1,18 @@
 {
   "main": {
     "name":"Barbara Bontempo",
-    "occupation":"technical account manager and solutions architect",
+    "occupation":"Technical Account Manager",
     "description":"I help some of the world's largest companies get real value out of complex data, AI, and observability platforms.",
     "image":"VERM1157.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Let's chat! Or collab on a project! ",
+    "bio":"Technical Account Manager at Datadog with a background in solutions engineering. I work with Fortune 500 enterprises in healthcare and automotive, helping them drive ROI from observability and monitoring investments. Fluent in English, Portuguese, and Spanish.",
+    "contactmessage":"Let's chat! Or collab on a project!",
     "email": "barbarabontempo94@gmail.com",
     "phone": "347-334-1672",
     "address":{
-      "street":"(Your Street)",
-      "city":"NY",
-      "state":"New York",
-      "zip": "11103"
+      "street":"",
+      "city":"New York",
+      "state":"NY",
+      "zip": ""
     },
     "website": "http://www.barbarabontempo.com",
     "resumedownload":"http://barbarabontempo.com",
@@ -24,7 +24,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/barbara-bontempo-a17011131/",
+        "url":"https://www.linkedin.com/in/barbara-bontempo",
         "className":"fa fa-linkedin"
       },
       {
@@ -32,67 +32,82 @@
         "url":"https://medium.com/@barbarabontempo94",
         "className":"fa fa-medium"
       }
-      
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Observability specialist with deep expertise across the Datadog platform, cloud infrastructure, and customer-facing technical work.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"New York University",
+        "degree":"B.A. Public Policy, GPA 3.9",
+        "graduated":"",
+        "description":"Graduated with a 3.9 GPA."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Flatiron School",
+        "degree":"Full Stack Web Development",
+        "graduated":"",
+        "description":"Intensive full-stack engineering program covering Ruby on Rails, JavaScript, React, and SQL."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Datadog",
+        "title":"Technical Account Manager",
+        "years":"Feb 2025 – Present",
+        "description":"Manage 4 enterprise accounts with a combined $28.9M ARR book of business, including Fortune 500 organizations in healthcare and automotive. Drove 73% ARR growth at UnitedHealth Group and 119% at Toyota Motor North America over two years. Mentor new TAM team members and created playbooks and enablement resources to standardize best practices across the team."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Datadog",
+        "title":"Technical Account Manager 2",
+        "years":"Sep 2023 – Feb 2025",
+        "description":"Closed the first TAM contract in the LATAM region — a $140K deal. Supported the largest Brazilian customer in their full migration to Datadog, leading enablement sessions in Portuguese and growing their investment from $128K to $374K. Bridged Product Managers and customer teams to ensure customer feedback shaped the product roadmap."
+      },
+      {
+        "company":"Datadog",
+        "title":"Senior Solutions Engineer – APM",
+        "years":"Jan 2023 – Aug 2023",
+        "description":"Built virtual sandboxes with APM enabled across popular customer stacks to streamline troubleshooting. Resolved 80+ APM customer tickets per month and led APM enablement sessions and office hours to upskill the broader solutions engineering team."
+      },
+      {
+        "company":"Datadog",
+        "title":"Solutions Engineer",
+        "years":"Mar 2021 – Jan 2023",
+        "description":"Supported customers through tickets, live chat, and troubleshooting calls. Led demos to prospective customers, contributing to $400K in closed deals annually."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"APM & Distributed Tracing",
+        "level":"95%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Log Management",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"Infrastructure & Kubernetes",
+        "level":"85%"
+      },
+      {
+        "name":"Terraform / IaC",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"AWS / Azure / GCP",
+        "level":"80%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"SQL (PostgreSQL)",
+        "level":"75%"
+      },
+      {
+        "name":"Ruby / Ruby on Rails",
+        "level":"70%"
       }
     ]
   },
